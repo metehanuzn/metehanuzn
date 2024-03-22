@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a 4th grade computer engineering student.<br>👯 I'm looking to collaborate on data science.<br>🤝 I'm looking for help with gaining more experience about data science.<br>🌱 I’m currently learning Power BI.
+🔭 I'm currently a 4th grade computer engineering student.<br>👯 I'm looking to collaborate on data science.<br>🤝 I'm looking for help with gaining more experience about data science.<br>🌱 I’m currently learning data analyze and data mining.
 
 
 ## 🌐 Socials:
