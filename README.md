@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a 4th grade computer engineering student.<br>👯 I'm looking to collaborate on Back-End and Blockchain.<br>🤝 I'm looking for help with gaining more experience about data science.<br>🌱 I’m currently studying blockchain.
-
+🔭 As a software engineer, I'm currently working for a software company.<br>👯 Outside of work, I am developing myself in the blockchain field.<br>🤝 I'm looking for help with gaining more experience about that field.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/metehanuzn.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/metehan-uzun-054804246) 
